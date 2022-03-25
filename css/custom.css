@@ -993,6 +993,7 @@ div#logo_slider {
   .bottom_fixed{
     top: 40%;
     height: auto;
+    right: 7px;
   }
   .row.subscribe p.font-small {
     margin: 20px 0px;
