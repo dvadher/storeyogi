@@ -969,6 +969,10 @@ div#logo_slider {
 }
 }
 @media only screen and (min-width: 300px) and (max-width: 767px) {
+  section.top-banner{
+    height:auto;
+    margin:60px 0px;
+  }
   .social_icons{
     justify-content: start;
     margin-top: 9px;
